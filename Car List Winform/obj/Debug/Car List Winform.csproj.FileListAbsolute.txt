@@ -1,0 +1,12 @@
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\bin\Debug\Car List Winform.exe.config
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\bin\Debug\Car List Winform.exe
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\bin\Debug\Car List Winform.pdb
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\bin\Debug\Guna.UI.dll
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car_List_Winform.Form1.resources
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car_List_Winform.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.csproj.CopyComplete
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.exe
+C:\Users\Amiraslan\source\repos\Car List Winform\Car List Winform\obj\Debug\Car List Winform.pdb
