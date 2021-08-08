@@ -171,8 +171,10 @@ namespace Car_List_Winform
             this.Controls.Add(this.gunaLabel4);
             this.Controls.Add(this.gunaLabel3);
             this.Controls.Add(this.gunaLabel2);
+            this.MaximumSize = new System.Drawing.Size(1165, 523);
+            this.MinimumSize = new System.Drawing.Size(1165, 523);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "S";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picbox_Car)).EndInit();
             this.ResumeLayout(false);
